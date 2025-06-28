@@ -17,6 +17,7 @@ Currently supports **floating**, **move**, and **size**, with more options plann
 
 ## 📦 Installation
 
+<!--
 ### 🐧 From AUR (Arch Linux)
 
 ```bash
@@ -24,6 +25,7 @@ yay -S hypr-windowrulex
 # or
 paru -S hypr-windowrulex
 ```
+-->
 
 ### 🛠️ From GitHub
 
